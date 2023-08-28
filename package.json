@@ -2,10 +2,10 @@
   "name": "project-best08",
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://shegadev.github.io/project-best08",
+  "homepage": "https://GoitStudentsWorks.github.io/js_86_SheGaDev",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-best08/"
+    "build": "parcel build src/*.html --public-url /js_86_SheGaDev/"
   },
   "repository": {
     "type": "git",
